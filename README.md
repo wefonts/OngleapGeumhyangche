@@ -1,5 +1,5 @@
 <pre>
-    @font-face {
+@font-face {
     font-family: "OngleapGeumhyangche";
     font-weight: 300;
     font-style: normal;
