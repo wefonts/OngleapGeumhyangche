@@ -1,4 +1,5 @@
-@font-face {
+<pre>
+    @font-face {
     font-family: "OngleapGeumhyangche";
     font-weight: 300;
     font-style: normal;
@@ -7,3 +8,5 @@
          url("https://cdn.jsdelivr.net/gh/wefonts/OngleapGeumhyangche/OngleapGeumhyangche.ttf") format("truetype");
     font-display: swap;
 }
+
+</pre>
