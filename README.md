@@ -9,4 +9,8 @@
     font-display: swap;
 }
 
+.OngleapGeumhyangche {
+    font-family: "OngleapGeumhyangche";
+}
+
 </pre>
